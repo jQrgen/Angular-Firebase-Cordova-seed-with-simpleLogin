@@ -1,0 +1,22 @@
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes.dex : \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$5.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/com/example/hello/R$string.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/com/example/hello/R.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/com/example/hello/R$attr.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/com/example/hello/BuildConfig.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/com/example/hello/R$xml.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/com/example/hello/AngularFireLogin.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/classes/com/example/hello/R$drawable.class \
+/home/huahax/hax/Angular-Firebase-Cordova-seed-with-simpleLogin/loginExample/platforms/android/ant-build/dexedLibs/classes-0edcf8f906bc2d226f10d0b55bf93290.jar \
