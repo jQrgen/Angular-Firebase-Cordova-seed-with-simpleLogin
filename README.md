@@ -40,3 +40,17 @@ yo angularfire
  * Go to your forge at Firebase and click simpleLogin at the left bar. Enable Facebook.
  * Make an app at [Facebooks developers site](https://developers.facebook.com/apps). Take note of your App ID and App Secret.
  * In your Facebook application configuration, enable the 'Website with Facebook Login' integration and set your 'Site URL' to: https://auth.firebase.com/auth/facebook/callback
+ 
+
+## **3\.** (Fix some code) and make it work on mobile device with Cordova/Phonegap
+ * Depending on what version of the generators, you may have to tweak some code and and add a logout button and a controller to it.
+ * Remember to include in your index.html:
+```javascript
+<script src="cordova.js"></script> 
+```
+ * SimpleLogin requires inAppBrowser.
+```bash
+cordova plugin add org.apache.cordova.inappbrowser
+```
+ * inAppBrowser and cordova.js
+
