@@ -12,7 +12,7 @@ In this example I use android platform, Facebook login and routing in AngularJS.
 
 
 
-# **1\.** Generate a seed and needed tools
+## **1\.** Generate a seed and needed tools
 
 ```bash
 cordova create loginExample com.example.hello AngularFireLogin
@@ -22,7 +22,7 @@ mkdir dev && cd dev
 yo angular
 yo angularfire
 ```
-#### Important! Prompts asked on angularfire
+#### Prompts asked on angularfire
 
  * `[?] Name of your Firebase instance:`
    (required) from your URL: http://`INSTANCE`.firebaseio.com
@@ -36,7 +36,7 @@ yo angularfire
     Y (this creates views/login.html and controllers/login.js, which provide registration (for password auth) and authentication)
 
 
-# **2\.** Enable authentication with Facebook in your application
+## **2\.** Enable authentication with Facebook in your application
  * Go to your forge at Firebase and click simpleLogin at the left bar. Enable Facebook.
  * Make an app at [Facebooks developers site](https://developers.facebook.com/apps). Take note of your App ID and App Secret.
  * In your Facebook application configuration, enable the 'Website with Facebook Login' integration and set your 'Site URL' to: https://auth.firebase.com/auth/facebook/callback
