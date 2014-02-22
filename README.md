@@ -42,7 +42,7 @@ yo angularfire
  * In your Facebook application configuration, enable the 'Website with Facebook Login' integration and set your 'Site URL' to: https://auth.firebase.com/auth/facebook/callback
  
 
-## **3\.** (Fix some code) and make it work on mobile device with Cordova/Phonegap
+## **3\.** (Fix some code) and build on mobile device with Cordova/Phonegap
  * Depending on what version of the generators, you may have to tweak some code and and add a logout button and a controller to it.
  * Remember to include in your index.html:
 ```javascript
@@ -52,3 +52,4 @@ yo angularfire
 ```bash
 cordova plugin add org.apache.cordova.inappbrowser
 ```
+ * Build your code with **grunt build** and replace the code in your www folder with the files in your dist folder.
