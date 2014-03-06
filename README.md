@@ -52,4 +52,7 @@ yo angularfire
 ```bash
 cordova plugin add org.apache.cordova.inappbrowser
 ```
- * Build your code with **grunt build** and replace the code in your www folder with the files in your dist folder.
+ * Build your code with **grunt build** and replace the code in your www folder with the files in your dist folder. Then it should be ready:
+```bash
+cordova run android
+```
