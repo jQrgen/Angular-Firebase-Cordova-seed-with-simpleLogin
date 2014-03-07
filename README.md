@@ -35,6 +35,8 @@ yo angularfire
  * `[?] Shall I create a rudimentary login screen?`
     Y (this creates views/login.html and controllers/login.js, which provide registration (for password auth) and authentication)
 
+In loginExample/dev/app/views/login.html, remove "ng-cloak", or else the login won't display.
+
 
 ## **2\.** Enable authentication with Facebook in your application
  * Go to your forge at Firebase and click simpleLogin at the left bar. Enable Facebook.
